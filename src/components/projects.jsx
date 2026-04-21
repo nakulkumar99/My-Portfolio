@@ -5,7 +5,7 @@ const projects = [
       "A multipage college website helping users explore courses, campus life, and more....",
     image: "https://i.pinimg.com/originals/fa/a2/ce/faa2ceedb89acc66b807280a0cbd4be9.jpg",
     viewurl:"https://github.com/NKNakulkumar/College-Website",
-    demo:"https://nknakulkumar.github.io/College-Website/",
+    demo:"https://nakulkumar99.github.io/College-Website/",
     tags: ["HTML", "CSS"],
   },
   {
