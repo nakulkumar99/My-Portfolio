@@ -37,7 +37,7 @@ py-18 md:py-24 lg:pt-8 pb-36
 
         <div className="flex gap-4  mx-15 md:mx-30 lg:mx-0  mt-6">
           <a
-            href="https://github.com/NKNakulkumar"
+            href="https://github.com/nakulkumar99"
             className="px-6 py-3 bg-purple-600 rounded-xl font-semibold shadow-lg hover:scale-105 active:scale-95 hover:bg-purple-700 transition"
           >
             GitHub
